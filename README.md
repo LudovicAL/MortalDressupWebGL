@@ -1,2 +1,3 @@
 # MortalDressupWebGL
-A WebGL build for our Mortal Dressup game
+Just access the following link to play the game:
+https://ludovical.github.io/MortalDressupWebGL/index.html
